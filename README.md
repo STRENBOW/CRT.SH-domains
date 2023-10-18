@@ -21,8 +21,6 @@ m.example.com
 dev.example.com
 products.example.com
 support.example.com
-AS207960 Test Intermediate - example.com
-user@example.com
 
 ```
 # One Line Command:
