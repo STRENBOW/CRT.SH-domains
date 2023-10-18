@@ -12,7 +12,7 @@ Just need to install python , and some modules :
 ```
 sudo pip install -r requirements.txt
 
-
+```
 # Usage:
 ```
 ▶ python3 scarping.py example.com
@@ -28,9 +28,7 @@ AS207960 Test Intermediate - example.com
 user@example.com
 
 ```
-
 # One Line Command:
-
 ```
 ▶ cat domains.txt | python3 scarping.py 
 ▶ echo "domain.com" | python3 scarping.py
