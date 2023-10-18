@@ -4,9 +4,6 @@ its scarping not scraping
 # Idea
 Geting domains for crt.sh in easy way
 
-The tool is replacing all the params values with KEY: "BAGOZAXSSOR>"
-
-
 # Installation
 Just need to install python , and some modules :
 ```
