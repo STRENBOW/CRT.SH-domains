@@ -2,7 +2,7 @@
 its scarping not scraping 
 
 # Idea
-Geting domains for crt.sh in easy way
+extract sub domains from crt.sh in easy way
 
 # Installation
 Just need to install python , and some modules :
