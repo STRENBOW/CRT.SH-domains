@@ -32,4 +32,4 @@ support.example.com
 
 # Credits
 This tool was written in python3  
-Twitter@cmd_sh , Github@M2NS
+Twitter@cmd_sh , Github@STRENBOW
